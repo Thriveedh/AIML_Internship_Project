@@ -30,7 +30,7 @@ The main goal of this project was to analyze historical stock data and predict f
 - Predicted future stock prices for a given number of days.
 - Plotted future trends along with historical data for comparison.
 
-### 5. Dashboard
+### 6. Dashboard
 - Displayed the dashboard using streamlit.
 
 ---
